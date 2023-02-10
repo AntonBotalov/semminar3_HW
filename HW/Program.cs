@@ -31,7 +31,7 @@ while (inWork)
                 }
                 else 
                 {
-                    Console.WriteLine("Введи пятизначное число");
+                    Console.WriteLine("Не пятизначное число");
                 }
                 
                 break;
