@@ -37,9 +37,9 @@ while (inWork)
                 break;
             }
 
-			case 2: // 3Д 
+	    case 2: // 3Д 
             {
-                 Console.WriteLine("напишите координаты точки A:");
+                Console.WriteLine("напишите координаты точки A:");
                 Console.Write("X = ");
                 int x1 = int.Parse(Console.ReadLine());
                 Console.Write("Y = ");
